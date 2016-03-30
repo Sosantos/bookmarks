@@ -1,0 +1,4 @@
+services:
+#    acme_bookmarks.example:
+#        class: Acme\BookmarksBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
